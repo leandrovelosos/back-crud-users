@@ -12,3 +12,5 @@ app.use(cors());
 app.use("/", userRoutes);
 
 app.listen(8800);
+
+//parei no minuto 28:55
